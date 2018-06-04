@@ -1,2 +1,1 @@
-# qinguocai.github.io
-https://qinguocai.github.io
+# personal notes
