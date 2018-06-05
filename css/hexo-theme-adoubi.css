@@ -331,8 +331,7 @@ a {
   }
 }
 .github-image,
-.email-image,
-.subscribe-image {
+.about-image {
   opacity: 0;
   -webkit-animation: fadeIn ease-in 1;
   -moz-animation: fadeIn ease-in 1;
@@ -350,7 +349,7 @@ a {
   -moz-animation-delay: 0.6s;
   animation-delay: 0.6s;
 }
-.email-image {
+.about-image {
   height: 35px;
   -webkit-animation-delay: 0.8s;
   -moz-animation-delay: 0.8s;
