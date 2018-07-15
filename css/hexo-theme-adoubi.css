@@ -249,6 +249,8 @@ a {
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
+  margin-top:2%;
+  text-align:center
 }
 .footer {
   text-align: center;
